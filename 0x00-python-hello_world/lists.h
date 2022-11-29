@@ -9,7 +9,6 @@
  * Desc: This header file contains the structure defination for
  * the linked list and some function prototypes.
  *
- * Author: Gizachew Bayness (eleccrazy)
  *
  * Date Createe: Jun 27, 2022
  */
